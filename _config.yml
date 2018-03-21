@@ -3,7 +3,7 @@
 # ===========================================
 
 # Site creation time
-since: 2015
+since: 2017
 
 # Custom your favicon.ico in `site/source`
 favicon: /favicon.ico
@@ -19,9 +19,9 @@ rss: default
 menu:
   Home: /
   Archives: /archives/
-  # Tags: /tags
-  # Categories: /categories
-  # About: /about
+  Tags: /tags
+  Categories: /categories
+  About: /about
 
 # ===========================================
 # Theme Settings
@@ -31,7 +31,7 @@ menu:
 theme:
   color: Default
   toc: false
-  fancybox: false
+  fancybox: true
 
 copyright:
   enable: true
@@ -48,13 +48,13 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email: cheneydc@gmail.com
   stack-overflow:
   twitter:
   facebook:
   linkedin:
-  google:
-  github:
+  google: https://plus.google.com/u/0/+CheneyDong
+  github: https://github.com/cheneydc
   weibo:
   zhihu:
   douban:
@@ -82,7 +82,7 @@ google_analytics:
 google_verification:
 
 # Disqus
-disqus_shortname:
+disqus_shortname: cheneydc
 
 #Changyan
 changyan:
